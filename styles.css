@@ -1,0 +1,52 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: hotpink;
+   }
+   .container{
+       width: 80%;
+       margin: 0 auto;
+       padding: 20px;
+       background-color: hotpink;
+       margin-top: 50px;  
+   }
+   h1{
+       text-align: center;
+   }
+   .contato{
+     margin-top: 30px;
+   }
+   .contato p{
+       margin-bottom: 15px;
+   }
+   .formulario{
+       margin-top: 30px;
+   }
+   .formulario textarea{
+       width: 100%;
+       padding: 10px;
+       margin-bottom: 10px;
+       height: 110px;
+   }
+   .formulario input[type="submit"] 
+   {
+   background-color: aqua;
+   color: #AD8B73;
+   padding: 10px 20px;
+   }
+   .formulario input[type="submit"]:hover{
+   background-color: antiquewhite;
+   }
+   nav{
+       background-color: antiquewhite;
+       padding: 50px; 
+       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+       font-weight:bold;
+   }
+   a:link{
+       color:#AD8B73;
+   }
+   a:visited{
+       color: #AD8B73;
+   }
